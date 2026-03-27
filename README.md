@@ -252,12 +252,3 @@ IPV4_Calculator/
 
 開發者：**區世俊**  
 歡迎透過 [GitHub](https://github.com/LeoTheAuJai) 與我聯繫。
-
----
-```
-
----
-
-| **使用方法** | 根據你嘅 UI 設計（4 個輸入框分別輸入）更新說明 |
-
-你可以直接將英文版放在 `README.md`，中文版放在 `README.zh.md`。如果有任何需要調整嘅地方，隨時話我知！
